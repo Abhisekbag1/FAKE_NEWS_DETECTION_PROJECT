@@ -40,5 +40,35 @@ Our Fake News Detection Project employs advanced machine learning algorithms to 
   Continuously monitor the model's performance in a real-world setting. Update the model as needed to account for changes in data distribution or other factors.
  ```
 
+## Technologies Used:
+ 1.Programming Language:
+   Python: Widely used for its extensive libraries and frameworks for machine learning, such as TensorFlow, PyTorch, and scikit-learn.
+
+ 2.Machine Learning Libraries and Frameworks:
+   TensorFlow: Open-source machine learning framework developed by Google.
+   PyTorch: Deep learning library widely used for its dynamic computation graph.
+   scikit-learn: Simple and efficient tools for data mining and data analysis in Python.
+
+ 3.Data Processing and Analysis:
+   Pandas: Data manipulation and analysis library.
+   NumPy: Library for numerical operations in Python.
+
+ 4.Data Visualization:
+   Matplotlib: 2D plotting library.
+   Seaborn: Statistical data visualization based on Matplotlib.
+
+ 5.Web Development (if applicable):
+   Flask or Django: Web frameworks for developing and deploying the machine learning model as a web application.
+
+ # DESIGN AND CONCEPT GENERATION:
+  Using the database, select, identify, recognize and search.
+ Machine Learning algorithms .
+ NLP (Natural Language Processing) techniques/ featurizers 
+  to make our computer understand.
+ Exploratory data analysis.
+ Getting dataset to train model.
+ Testing accuracy.
+ Again and again training model and testing accuracy.
+
  
 

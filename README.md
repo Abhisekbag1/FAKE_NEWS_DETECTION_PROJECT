@@ -9,7 +9,7 @@ Our Fake News Detection Project employs advanced machine learning algorithms to 
 (Natural Language Processing), 5.Algorithms.
 ```
 # STEPS:
-```bash
+
 1.Define the Problem:
   Clearly articulate the problem you want to solve. Whether it's image recognition, fraud detection, or sentiment analysis, a well-defined problem is crucial.
 
@@ -38,7 +38,7 @@ Our Fake News Detection Project employs advanced machine learning algorithms to 
 
 9.Monitor and Maintain:
   Continuously monitor the model's performance in a real-world setting. Update the model as needed to account for changes in data distribution or other factors.
- ```
+ 
 
 ## Technologies Used:
  1.Programming Language:

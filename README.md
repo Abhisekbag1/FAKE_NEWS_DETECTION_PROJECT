@@ -61,14 +61,20 @@ Our Fake News Detection Project employs advanced machine learning algorithms to 
    Flask or Django: Web frameworks for developing and deploying the machine learning model as a web application.
 
  # DESIGN AND CONCEPT GENERATION:
-  Using the database, select, identify, recognize and search.
- Machine Learning algorithms .
- NLP (Natural Language Processing) techniques/ featurizers 
+ 
+  1.Using the database, select, identify, recognize and search.
+2. Machine Learning algorithms .
+3. NLP (Natural Language Processing) techniques/ featurizers 
   to make our computer understand.
- Exploratory data analysis.
- Getting dataset to train model.
- Testing accuracy.
- Again and again training model and testing accuracy.
+4.Exploratory data analysis.
+5. Getting dataset to train model.
+6. Testing accuracy.
+7. Again and again training model and testing accuracy.
+
+# AUTHORS:
+1.ABHISEK BAG/21BCS9333@cuchd.in
+2.KHUSHI RANJANA/21BCS9320@cuchd.in
+3.Pragya/21BCS9346@cuchd.in
 
  
 

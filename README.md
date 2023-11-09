@@ -71,6 +71,9 @@ Our Fake News Detection Project employs advanced machine learning algorithms to 
 6. Testing accuracy.
 7. Again and again training model and testing accuracy.
 
+# LICENSE:
+ FAKE_NEWS_DETECTION_PROJECT is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for more information.
+
 # AUTHORS:
 1.ABHISEK BAG/21BCS9333@cuchd.in
 2.KHUSHI RANJANA/21BCS9320@cuchd.in

@@ -38,9 +38,9 @@ Our Fake News Detection Project employs advanced machine learning algorithms to 
 
 9.Monitor and Maintain:
   Continuously monitor the model's performance in a real-world setting. Update the model as needed to account for changes in data distribution or other factors.
- <pre>
+ 
 
- # Technologies Used:
+ ## Technologies Used:
  1.Programming Language:
    Python: Widely used for its extensive libraries and frameworks for machine learning, such as TensorFlow, PyTorch, and scikit-learn.
 
